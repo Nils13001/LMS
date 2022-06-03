@@ -16,7 +16,7 @@
 <li>mem_op.py
 <li>is_or_re.py
 <li>menu.py
-  <b> Note: LMS is also a module but its the main program</b>
+ <p> <b> Note: LMS is also a module but its the main program</b>
 
   <h3>In-Built Modules Used:</h3>
 
